@@ -1,3 +1,13 @@
-#MyApp
+# MyApp
 
-This is my app
+## Subheader
+
+This is my **app**
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
